@@ -25,5 +25,5 @@ MonoBehaviour:
   color:
     serializedVersion: 2
     rgba: 4284214879
-  isSold: 1
+  isSold: 0
   isEquipped: 0
