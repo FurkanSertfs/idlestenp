@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a813835882d73894d9210cf5fefcac75, type: 3}
+  m_Name: soldier2 1
+  m_EditorClassIdentifier: 
+  stamina: 8
+  durability: 9
+  maxspeed: 9
+  price: 14
+  maxValue: 10
+  rarity: Common
+  CharacterName: 
+  characterImage: {fileID: 21300000, guid: 302bb4930027fd7419f9e0759b1ab406, type: 3}
+  charcterWalk: {fileID: 21300000, guid: f5a606f7f45be644eae9ed4dcb8b327e, type: 3}
+  characterWalk2: {fileID: 21300000, guid: 406c722757a5e9b468b1d0f797588c82, type: 3}
+  color:
+    serializedVersion: 2
+    rgba: 4284214879
+  isSold: 0
+  isEquipped: 0

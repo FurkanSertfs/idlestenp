@@ -1,0 +1,281 @@
+{
+    "m_SelectedDeviceId": "f65d3e8",
+    "m_SelectedPackage": {
+        "deviceId": "f65d3e8",
+        "name": "com.TinyWorlds.com.step",
+        "processId": 20599,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "f65d3e8",
+            "name": "com.TinyWorlds.com.StormTheCastle",
+            "processId": 1669,
+            "exited": true
+        },
+        {
+            "deviceId": "f65d3e8",
+            "name": "com.TinyWorlds.com.StormTheCastle",
+            "processId": 9293,
+            "exited": true
+        },
+        {
+            "deviceId": "f65d3e8",
+            "name": "com.whatsapp",
+            "processId": 32726,
+            "exited": true
+        },
+        {
+            "deviceId": "f65d3e8",
+            "name": "com.TinyWorlds.com.StormTheCastle",
+            "processId": 7691,
+            "exited": true
+        },
+        {
+            "deviceId": "f65d3e8",
+            "name": "com.TinyWorlds.com.unity.template.mobile2D",
+            "processId": 28366,
+            "exited": true
+        },
+        {
+            "deviceId": "f65d3e8",
+            "name": "com.miui.home",
+            "processId": 2447,
+            "exited": false
+        },
+        {
+            "deviceId": "f65d3e8",
+            "name": "com.TinyWorlds.com.unity.template.mobile2D",
+            "processId": 4793,
+            "exited": false
+        },
+        {
+            "deviceId": "f65d3e8",
+            "name": "com.TinyWorlds.com.unity.template.mobile2D",
+            "processId": 11072,
+            "exited": false
+        },
+        {
+            "deviceId": "f65d3e8",
+            "name": "com.TinyWorlds.com.step",
+            "processId": 11378,
+            "exited": false
+        },
+        {
+            "deviceId": "f65d3e8",
+            "name": "com.TinyWorlds.com.step",
+            "processId": 14212,
+            "exited": false
+        },
+        {
+            "deviceId": "f65d3e8",
+            "name": "com.TinyWorlds.com.step",
+            "processId": 15143,
+            "exited": false
+        },
+        {
+            "deviceId": "f65d3e8",
+            "name": "com.TinyWorlds.com.step",
+            "processId": 16274,
+            "exited": false
+        },
+        {
+            "deviceId": "f65d3e8",
+            "name": "com.TinyWorlds.com.step",
+            "processId": 16657,
+            "exited": false
+        },
+        {
+            "deviceId": "f65d3e8",
+            "name": "com.TinyWorlds.com.step",
+            "processId": 18035,
+            "exited": false
+        },
+        {
+            "deviceId": "f65d3e8",
+            "name": "com.TinyWorlds.com.step",
+            "processId": 29398,
+            "exited": false
+        },
+        {
+            "deviceId": "f65d3e8",
+            "name": "com.TinyWorlds.com.step",
+            "processId": 17652,
+            "exited": false
+        },
+        {
+            "deviceId": "f65d3e8",
+            "name": "com.TinyWorlds.com.step",
+            "processId": 21233,
+            "exited": false
+        },
+        {
+            "deviceId": "f65d3e8",
+            "name": "com.TinyWorlds.com.step",
+            "processId": 27883,
+            "exited": false
+        },
+        {
+            "deviceId": "f65d3e8",
+            "name": "com.TinyWorlds.com.step",
+            "processId": 13937,
+            "exited": false
+        },
+        {
+            "deviceId": "f65d3e8",
+            "name": "com.TinyWorlds.com.step",
+            "processId": 17302,
+            "exited": false
+        },
+        {
+            "deviceId": "f65d3e8",
+            "name": "com.TinyWorlds.com.step",
+            "processId": 20349,
+            "exited": false
+        },
+        {
+            "deviceId": "f65d3e8",
+            "name": "com.TinyWorlds.com.step",
+            "processId": 23157,
+            "exited": false
+        },
+        {
+            "deviceId": "f65d3e8",
+            "name": "com.TinyWorlds.com.step",
+            "processId": 26136,
+            "exited": false
+        },
+        {
+            "deviceId": "f65d3e8",
+            "name": "com.TinyWorlds.com.step",
+            "processId": 29203,
+            "exited": false
+        },
+        {
+            "deviceId": "f65d3e8",
+            "name": "com.TinyWorlds.com.step",
+            "processId": 11639,
+            "exited": false
+        },
+        {
+            "deviceId": "f65d3e8",
+            "name": "com.TinyWorlds.com.step",
+            "processId": 29500,
+            "exited": false
+        },
+        {
+            "deviceId": "f65d3e8",
+            "name": "com.TinyWorlds.com.step",
+            "processId": 5729,
+            "exited": false
+        },
+        {
+            "deviceId": "f65d3e8",
+            "name": "com.TinyWorlds.com.step",
+            "processId": 8140,
+            "exited": false
+        },
+        {
+            "deviceId": "f65d3e8",
+            "name": "com.TinyWorlds.com.step",
+            "processId": 9970,
+            "exited": false
+        },
+        {
+            "deviceId": "f65d3e8",
+            "name": "com.TinyWorlds.com.step",
+            "processId": 12581,
+            "exited": false
+        },
+        {
+            "deviceId": "f65d3e8",
+            "name": "com.TinyWorlds.com.step",
+            "processId": 15688,
+            "exited": false
+        },
+        {
+            "deviceId": "f65d3e8",
+            "name": "com.TinyWorlds.com.step",
+            "processId": 3094,
+            "exited": false
+        },
+        {
+            "deviceId": "f65d3e8",
+            "name": "com.TinyWorlds.com.step",
+            "processId": 7087,
+            "exited": false
+        },
+        {
+            "deviceId": "f65d3e8",
+            "name": "com.TinyWorlds.com.step",
+            "processId": 10924,
+            "exited": false
+        },
+        {
+            "deviceId": "f65d3e8",
+            "name": "com.TinyWorlds.com.step",
+            "processId": 19294,
+            "exited": false
+        },
+        {
+            "deviceId": "f65d3e8",
+            "name": "com.TinyWorlds.com.step",
+            "processId": 20599,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}

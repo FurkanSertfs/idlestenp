@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a813835882d73894d9210cf5fefcac75, type: 3}
+  m_Name: Player1 1
+  m_EditorClassIdentifier: 
+  stamina: 2
+  durability: 3
+  maxspeed: 9
+  price: 9
+  maxValue: 10
+  rarity: Common
+  CharacterName: 
+  characterImage: {fileID: 21300000, guid: b539d58c35a41044589fc3d15037c379, type: 3}
+  charcterWalk: {fileID: 21300000, guid: 7898a712d9fccdd43b2f7a970bb5f178, type: 3}
+  characterWalk2: {fileID: 21300000, guid: a8375cebbee3e584196b68651379746f, type: 3}
+  color:
+    serializedVersion: 2
+    rgba: 4284214879
+  isSold: 0
+  isEquipped: 0
